@@ -1,19 +1,19 @@
 .container {
     background-color: red;
     height: 505px;
-    width: 670px;
+    width: 660px;
     margin: 0 auto;
 }
 
 .top-left {
-    width: 100px;
+    width: 110px;
     height: 150px;
     background-color: whitesmoke;
     border-right: 10px solid black;
     border-bottom: 10px solid black;
 }
 .middle-left {
-    width: 100px;
+    width: 110px;
     height: 200px;
     background-color: whitesmoke;
     border-right: 10px solid black;
@@ -23,7 +23,7 @@
 
 #bottom-left {
     height: 125px;
-    width: 102.5px;
+    width: 110px;
     background-color: blue;
     border-right: 10px solid black;
     /* display: flex; */
@@ -33,7 +33,7 @@
 .center-bottom {
     background-color: whitesmoke;
     height: 125px;
-    width: 500px;
+    width: 475px;
 }
 
 .bottom {
